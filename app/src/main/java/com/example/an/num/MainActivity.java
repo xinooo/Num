@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public static MyAdapter MyAdapter,countMyAdapter;
     private AlertDialog choiceDialog;
     private String aaa = "";
-    private String ddd = "";
 
 
 
