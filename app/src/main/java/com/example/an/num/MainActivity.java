@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private AlertDialog choiceDialog;
     private String aaa = "";
     private String ddd = "";
+    private String sss = "";
+    private String qqq = "";
 
 
 
