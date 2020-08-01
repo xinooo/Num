@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">猜數字</string>
+    <string name="ts_1">Start</string>
+    <string name="ts_2">放棄本局</string>
+    <string name="ts_3">開始</string>
+    <string name="ts_time">00：00</string>
+
+</resources>

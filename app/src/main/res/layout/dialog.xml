@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/button_round_white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="123546789"
+        android:textSize="50sp"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:paddingBottom="10dp">
+
+        <Button
+            android:id="@+id/button_times"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_weight="1"
+            android:text="計時"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/button_round_blue" />
+
+        <Button
+            android:id="@+id/button_counts"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="計次"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/button_round_green"/>
+    </LinearLayout>
+
+</LinearLayout>
