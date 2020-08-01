@@ -12,6 +12,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class MyAdapter extends BaseAdapter {
+    private int anInt = 1;
 
     private Context context;
     private ArrayList<String> dataList;
