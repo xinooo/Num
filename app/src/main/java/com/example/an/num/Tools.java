@@ -15,7 +15,8 @@ import java.io.IOException;
 import static android.content.Context.MODE_PRIVATE;
 
 public class Tools {
-    private int anInt = 2;
+    private int anInt = 1;
+
     public static void save(Context context,boolean b){
         String File = "", Date = "";
         if (b){
