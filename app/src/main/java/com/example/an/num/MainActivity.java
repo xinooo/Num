@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private String ddd = "";
     private String sss = "";
     private String qqq = "";
+    private String sssa = "";
+    private String qqaq = "";
 
 
 
